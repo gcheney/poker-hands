@@ -1,6 +1,6 @@
 # Poker Cards!
 
-This is a small, poker hand comparison tool that automatically generates two random poker hands, compares them, and decalres which one would win that round. 
+This project is a poker hands comparison tool that automatically generates two random poker hands, compares them, and decalres which one would win that round. 
 
 # Download
 
