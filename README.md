@@ -2,6 +2,11 @@
 
 This is a small, poker hand comparison tool that automatically generates two random poker hands, compares them, and decalres which one would win that round. 
 
+# Download
+
+The runnable JAR file for it can be found [here](http://github.com/gcheney/poker-hands/releases/download/1.0/poker-hands.jar).
+
+
 # Screenshots
 
 ### Start Screen
